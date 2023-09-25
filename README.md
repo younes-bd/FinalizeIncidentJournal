@@ -15,3 +15,11 @@
 | The 5 W's  | ●	Who: N/A </br> ●	What: N/A </br> ●	Where: N/A </br> ●	When: N/A </br> ●	Why: N/A </br> |
 | Additional notes | I've never used Wireshark before, so I was excited to begin this exercise and analyze a packet capture file. At first glance, the interface was very overwhelming. I can see why it's such a powerful tool for understanding network traffic.|
 
+
+
+| Date: July 25 2024 | Entry: #3|
+| ------------------- | --------- | 
+| Description  | Capturing my first packet | 
+| Tool(s) used | For this activity, I used tcpdump to capture and analyze network traffic. Tcpdump is a network protocol analyzer that's accessed using the command-line interface. Similar to Wireshark, the value of tcpdump in cybersecurity is that it allows security analysts to capture, filter, and analyze network traffic.|
+| The 5 W's  | ●	Who: N/A </br> ●	What: N/A </br> ●	Where: N/A </br> ● When: N/A</br>  ●	Why: N/A </br> |
+| Additional notes | I'm still new to using the command-line interface, so using it to capture and filter network traffic was a challenge. I got stuck a couple of times because I used the wrong commands. But after carefully following the instructions and redoing some steps, I was able to get through this activity and capture network traffic.|
