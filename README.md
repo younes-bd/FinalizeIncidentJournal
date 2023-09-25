@@ -26,7 +26,7 @@
 
 
 | Date: July 27 2024 | Entry: #4|
-| ------------------- | --------- | 
+| ------------------- | -------------- | 
 | Description  | Investigate a suspicious file hash | 
 | Tool(s) used | For this activity, I used VirusTotal, which is an investigative tool that analyzes files and URLs for malicious content such as viruses, worms, trojans, and more.  It's a very helpful tool to use if you want to quickly check if an indicator of compromise like a website or file has been reported as malicious by others in the cybersecurity community. For this activity, I used VirusTotal to analyze a file hash, which was reported as malicious.</br> This incident occurred in the Detection and Analysis phase. The scenario put me in the place of a security analyst at a SOC investigating a suspicious file hash. After the suspicious file was detected by the security systems in place, I had to perform deeper analysis and investigation to determine if the alert signified a real threat. |
 | The 5 W's  | ●	Who: An unknown malicious actor </br> ●	What: An email sent to an employee contained a malicious file attachment with the SHA-256 file hash of 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b </br> ●	Where: An employee's computer at a financial services company </br> ●	When: At 1:20 p.m., an alert was sent to the organization's SOC after the intrusion detection system detected the file </br> ●	Why: An employee was able to download and execute a malicious file attachment via e-mail.|
