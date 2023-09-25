@@ -4,3 +4,14 @@
 | Tool(s) used | None. |
 | The 5 W's  | ●	Who: An organized group of unethical hackers </br> ●	What: A ransomware security incident </br>  ●	Where: At a health care company </br> ●	When: Tuesday 9:00 a.m. </br> ●	Why: The incident happened because unethical hackers were able to access the company's systems using a phishing attack. After gaining access, the attackers launched their ransomware on the company's systems, encrypting critical files. The attackers' motivation appears to be financial because the ransom note they left demanded a large sum of money in exchange for the decryption key. |
 | Additional notes | 1.	How could the health care company prevent an incident like this from occurring again? </br>2.	Should the company pay the ransom to retrieve the decryption key?|
+
+
+
+
+| Date: July 25 2024 | Entry: #2 |
+| ------------------- | --------- | 
+| Description  | Analyzing a packet capture file | 
+| Tool(s) used | For this activity, I used Wireshark to analyze a packet capture file. Wireshark is a network protocol analyzer that uses a graphical user interface. The value of Wireshark in cybersecurity is that it allows security analysts to capture and analyze network traffic. This can help in detecting and investigating malicious activity. |
+| The 5 W's  | ●	Who: N/A </br> ●	What: N/A </br> ●	Where: N/A </br> ●	When: N/A </br> ●	Why: N/A </br> |
+| Additional notes | I've never used Wireshark before, so I was excited to begin this exercise and analyze a packet capture file. At first glance, the interface was very overwhelming. I can see why it's such a powerful tool for understanding network traffic.|
+
